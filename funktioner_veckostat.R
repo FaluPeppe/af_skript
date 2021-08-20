@@ -1,8 +1,6 @@
 library(futile.logger)
 library(utils)
 
-# Test för GitHub
-
 # Stäng av eller på felmeddelanden, använd det värde som finns i variabeln
 # LoggMedd från AF_Kor_alla_skript.R, annars FALSE för att stänga av eller
 # TRUE för att sätta på loggmeddelanden
